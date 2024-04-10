@@ -129,6 +129,9 @@ int main()
 		
 	free(N);
 	free(S);
+
+	cout << endl << "Premi un tasto per terminare. . ." << endl;
+	cin.get();
 	
 	return 0;
 }
