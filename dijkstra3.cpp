@@ -130,8 +130,7 @@ int main()
 	free(N);
 	free(S);
 
-	cout << endl << "Premi un tasto per terminare. . ." << endl;
-	cin.get();
+	system("PAUSE");
 	
 	return 0;
 }
